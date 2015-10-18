@@ -1,4 +1,4 @@
-'use strict';
+'use strict'
 
 var watch = require('gulp-watch'),
     path = require('path'),
